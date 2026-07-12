@@ -2,7 +2,7 @@
 
 Welcome to my AWS Learning Repository! 🚀
 
-This repository contains my complete AWS learning journey, including hands-on practice, notes, architectures, and real-world projects. My goal is to gain practical cloud experience and become a Cloud/DevOps Engineer.
+This repository contains my complete AWS learning journey, including hands-on practice, notes, architectures, and real-world projects. My goal is to gain practical cloud experience and become a Cloud/DevOps Engineer. 
 
 ---
 
